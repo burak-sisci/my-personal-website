@@ -5,10 +5,7 @@
 
 Bu depo, Web Teknolojileri dersi kapsamında geliştirdiğim kişisel portfolyo web sitemin kaynak kodlarını içermektedir. Site, modern web standartları kullanılarak sıfırdan kodlanmıştır ve yeteneklerimi, projelerimi ve hakkımdaki bilgileri sergilemektedir.
 
-**🚀 Sitenin Canlı Halini Ziyaret Et:** [**burak-sisci.github.io/kisisel-websitem**](https://[Link-to-your-live-site] )
-
-![Ana Sayfa Ekran Görüntüsü](https://[your-github-username].github.io/kisisel-websitem/images/anasayfa-goruntusu.png )
-*(Not: Bu ekran görüntüsü linkini, siteyi yayınladıktan sonra çalışan bir linkle değiştirebilirsin.)*
+**🚀 Sitenin Canlı Halini Ziyaret Et:** [**[burak-sisci.github.io/kisisel-websitem](https://burak-sisci.github.io/my-personal-website/)**](https://[Link-to-your-live-site] )
 
 ---
 
@@ -45,7 +42,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/[your-github-username]/kisisel-websitem.git
+    git clone https://github.com/burak-sisci/kisisel-websitem.git
     ```
 
 2.  **Klasöre Gidin:**

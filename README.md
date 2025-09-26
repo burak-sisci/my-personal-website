@@ -42,7 +42,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/burak-sisci/kisisel-websitem.git
+    git clone https://github.com/burak-sisci/my-personal-website.git
     ```
 
 2.  **Klasöre Gidin:**

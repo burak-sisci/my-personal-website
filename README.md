@@ -5,7 +5,7 @@
 
 Bu depo, Web Teknolojileri dersi kapsamında geliştirdiğim kişisel portfolyo web sitemin kaynak kodlarını içermektedir. Site, modern web standartları kullanılarak sıfırdan kodlanmıştır ve yeteneklerimi, projelerimi ve hakkımdaki bilgileri sergilemektedir.
 
-**🚀 Sitenin Canlı Halini Ziyaret Et:** [**[burak-sisci.github.io/kisisel-websitem](https://burak-sisci.github.io/my-personal-website/)**](https://[Link-to-your-live-site] )
+**🚀 Sitenin Canlı Halini Ziyaret Et:** [**[burak-sisci.github.io/my-personal-website](https://burak-sisci.github.io/my-personal-website/)**] 
 
 ---
 

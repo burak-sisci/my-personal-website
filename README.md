@@ -12,7 +12,6 @@ Bu depo, Web Teknolojileri dersi kapsamında geliştirdiğim kişisel portfolyo 
 - **Dinamik Ana Sayfa:** Ziyaretçiyi karşılayan, arka plan videosu içeren modern bir "Hero" bölümü.
 - **Duyarlı (Responsive) Tasarım:** Masaüstü, tablet ve mobil cihazlarda sorunsuz bir kullanıcı deneyimi sunar.
 - **Modern Galeri:** "Geçmişten Kareler" sayfasında, resimlerin orijinal oranlarını koruyan Pinterest tarzı "Masonry" galeri düzeni.
-- **Etkileşimli Elementler:** Üzerine gelince (hover) tepki veren butonlar, linkler ve proje kartları.
 
 ---
 
